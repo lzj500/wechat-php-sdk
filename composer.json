@@ -24,5 +24,5 @@
     }
   },
   "type" : "library",
-  "license" : "GNU"
+  "license" : "MIT"
 }
